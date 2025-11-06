@@ -3,4 +3,4 @@ Description
 
 Target Customers:
 
-Features you plan to include:
+Features you plan to include
